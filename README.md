@@ -1,5 +1,5 @@
 # BinaryWrapper
-Android App to run Linux commands and executables on Android
+Android App to run Linux commands and executables on Android. Supports Android 10 or higher as well
 
 ## Steps to setup
 
